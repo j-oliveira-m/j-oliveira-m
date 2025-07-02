@@ -1,4 +1,4 @@
-<h2 align="left">##👋 Olá! Eu sou a Julia Oliveira<br><br> 🎓 Estudante de Ciência da Computação na Unisinos  <br>  <br> 🔎 Em busca de oportunidades de estágio para aprender e crescer na área de desenvolvimento.<br><br>## 💡 Sobre mim<br><br> 🌱 Atualmente estou aprendendo **C**, **Python** e lógica de programação<br><br> 📚 Tenho experiência com atendimento ao público e área administrativa<br><br>##🛠️ Tecnologias que estou estudando<br><br>- C (básico)<br>- Python<br>- Lógica de programação</h2>
+<h2 align="left">👋 Olá! Eu sou a Julia <br><br>🎓 Estudante de Ciência da Computação na Unisinos  <br>  <br>🔎 Em busca de oportunidades de estágio para aprender e crescer na área de desenvolvimento.<br><br>🛠️ Tecnologias que estou estudando<br><br>- C (básico)<br>- Python(básico)<br>- Lógica de programação</h2>
 
 ###
 
@@ -9,3 +9,11 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=j-oliveira-m&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=j-oliveira-m&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
